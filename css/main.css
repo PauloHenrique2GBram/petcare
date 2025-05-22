@@ -104,3 +104,14 @@ h2{
     z-index: -10;
 
 }
+#farmacia{
+    text-align: center;
+    padding: 80px;
+}
+.divFarmacia{
+    margin: 0 auto;
+    max-width: 800px;
+}
+.paragrafo3{
+    padding-top: 75px;
+}
